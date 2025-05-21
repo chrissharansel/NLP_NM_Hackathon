@@ -18,6 +18,7 @@ This project enables seamless machine translation between English and multiple I
 - [AI4Bharat IndicNLP Corpus](https://indicnlp.ai4bharat.org/parallel-corpora/)
 - [IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/)
 - [OPUS (Tanzil, KDE, GNOME, etc.)](http://opus.nlpl.eu/)
+- [Hugging face samantar dataset](https://huggingface.co/datasets/ai4bharat/samanantar)
 
 All data is preprocessed and tokenized using `SentencePiece`, including language-specific tokens like `[en_XX]`, `[hi_IN]`, etc.
 
